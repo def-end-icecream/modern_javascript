@@ -8,5 +8,5 @@ console.log(startOfDay);
 console.log(todayFormatted);
 console.log(math.sqrt(-4));
 
-var name = 'Bob';
+var name = 'Giraffe';
 console.log(`Hello ${name}, how are you ${todayFormatted}?`);
